@@ -70,15 +70,12 @@ I'm a Student with a passion for ML, DL & AI.
 ![MS Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 
-<!-- Add more badges for your skills 
+<!-- Add more badges for your skills -->
 
  ## 🚀 Projects
 
-### [Project 1 Name](https://github.com/your-username/project-1)
-A brief description of your project. Mention key technologies and features.
-
-### [Project 2 Name](https://github.com/your-username/project-2)
-A brief description of your project. Mention key technologies and features.
+### [Fish_farming_prediction](https://github.com/AmitBera007/Fish_farming_prediction)
+This project is focused on classifying different types of fish based on their environmental conditions. The dataset includes features such as pH, temperature, and turbidity of water, which are used to predict the type of fish present.
 
 <!-- Add more projects -->
 
