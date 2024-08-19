@@ -1,5 +1,6 @@
-<!-- Add a catchy banner or gif at the top -->
-![Banner](https://your-image-url-here) 
+<!-- ### 🐍 Snake Eating My Contributions Graph -->
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/AmitBera007/AmitBera007/output/github-contribution-grid-snake.svg)
 
 # Hi there 👋, I'm Amit Bera!
 
