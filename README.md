@@ -1,4 +1,4 @@
-<!-- ### 🐍 Snake Eating My Contributions Graph -->
+<!-- ### 🐍 Snake Eating My Contributions Graph --
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -13,6 +13,7 @@
     src="https://raw.githubusercontent.com/AmitBera007/AmitBera007/output/github-contribution-grid-snake.svg"
   />
 </picture>
+-->
 
 <h1 align="center">Hi 👋, I'm Amit Bera</h1>
 
