@@ -1,8 +1,20 @@
 <!-- ### 🐍 Snake Eating My Contributions Graph -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AmitBera007/AmitBera007/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AmitBera007/AmitBera007/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/AmitBera007/AmitBera007/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/AmitBera007/AmitBera007/output/github-contribution-grid-snake.svg)
-
-# Hi there 👋, I'm Amit Bera!
+<h1 align="center">Hi 👋, I'm Amit Bera</h1>
 
 I'm a Student with a passion for ML, DL & AI.
 
