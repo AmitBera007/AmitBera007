@@ -74,7 +74,7 @@ I'm a Student with a passion for ML, DL & AI.
 
  ## 🚀 Projects
 
-### [Fish_farming_prediction](https://github.com/AmitBera007/Fish_farming_prediction)
+### [Fish Farming Prediction](https://github.com/AmitBera007/Fish_farming_prediction)
 This project is focused on classifying different types of fish based on their environmental conditions. The dataset includes features such as pH, temperature, and turbidity of water, which are used to predict the type of fish present.
 
 <!-- Add more projects -->
