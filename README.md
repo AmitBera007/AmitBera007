@@ -33,6 +33,7 @@ I'm a Student with a passion for ML, DL & AI.
 ![Machine Learning - ML](https://img.shields.io/badge/Machine_Learning-ML-2ea44f?style=for-the-badge)
 ![Deep Learning - DL](https://img.shields.io/badge/Deep_Learning-DL-blueviolet?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-important?style=for-the-badge)
+![Artificial Intelligence - AI](https://img.shields.io/badge/Artificial_Intelligence-AI-ff5722?style=for-the-badge)
 ![Computer Vision - CV](https://img.shields.io/badge/Computer_Vision-CV-blue?style=for-the-badge)
 ![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-red?style=for-the-badge)
 
