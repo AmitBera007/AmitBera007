@@ -78,9 +78,11 @@
 
  ## 🚀 Projects
 
-### [Fish Farming Prediction](https://github.com/AmitBera007/Fish_farming_prediction)
+### [Predictive Modeling of Water Quality Parameters for Fish Farming](https://github.com/AmitBera007/Fish_farming_prediction)
 This project is focused on classifying different types of fish based on their environmental conditions. The dataset includes features such as pH, temperature, and turbidity of water, which are used to predict the type of fish present.
 
+### [Startup Funding Analysis](https://github.com/AmitBera007/Startup_Funding_Analysis)
+This project analyzes startup funding data to reveal trends in industries, investment types, and city funding. Using R, the analysis includes data processing and visualizations to provide insights into the startup ecosystem. Key findings are displayed through clear visualizations, aiding data-driven decision-making.
 <!-- Add more projects -->
 
 ## 📊 GitHub Stats
