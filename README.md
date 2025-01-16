@@ -77,12 +77,14 @@
 <!-- Add more badges for your skills -->
 
  ## 🚀 Projects
+### [SynthText: Generating Emotionally Expressive Talking Faces From Image And Text](https://github.com/AmitBera007/Term_Project-SynthText)
+SynthText is a neural network system that generates talking face videos from textual input. This system ensures that facial expressions match the intended emotion while generating realistic and synchronized speech-driven movements.
 
 ### [Predictive Modeling of Water Quality Parameters for Fish Farming](https://github.com/AmitBera007/Fish_farming_prediction)
 This project is focused on classifying different types of fish based on their environmental conditions. The dataset includes features such as pH, temperature, and turbidity of water, which are used to predict the type of fish present.
 
-### [Startup Funding Analysis](https://github.com/AmitBera007/Startup_Funding_Analysis)
-This project analyzes startup funding data to reveal trends in industries, investment types, and city funding. Using R, the analysis includes data processing and visualizations to provide insights into the startup ecosystem. Key findings are displayed through clear visualizations, aiding data-driven decision-making.
+### [Economic Data Analysis on US Financial Data](https://github.com/AmitBera007/Economic_data_analysis)
+This project analyzes the relationships between key economic indicators (e.g., interest rates, inflation, GDP, unemployment, industrial production) and their impact on the S&P 500 index using statistical methods and regression modeling.
 <!-- Add more projects -->
 
 ## 📊 GitHub Stats
